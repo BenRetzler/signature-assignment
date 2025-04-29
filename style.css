@@ -97,7 +97,7 @@ main div div {
 }
 main div img {
     max-width: 37%;
-    max-height: 25%;
+    max-height: 15%;
 }
 .mainDiv {
     display: flex;
@@ -133,7 +133,7 @@ footer p {
     }
     main div img {
         max-width: 80%;
-        max-height: 45%;
+        max-height: 60%;
         margin: auto;
         order: 0;
     }
