@@ -55,7 +55,8 @@ header {
     font-family: Helvetica, Arial, sans-serif;
     font-weight: bolder;
     border-radius: 25px;
-    border: #96755b ridge 0.5vw;
+    border: #96755b double 0.5vw;
+    background: #eee4d4;
 }
 header a {
     margin: auto;
