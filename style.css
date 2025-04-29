@@ -20,7 +20,7 @@
     position: absolute;
     margin: 0.5%;
     background: #fff5e5;
-    
+    box-shadow: 10px 5px 5px #000000;
 }
 .dropdownInfo:hover .dropdownContent {
     display: block;
