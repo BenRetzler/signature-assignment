@@ -1,5 +1,6 @@
 .dropdownInfo {
     position: relative;
+    display: inline;
     text-decoration: underline;
     align-self: auto;
     text-align: center;
@@ -19,6 +20,7 @@
     z-index: 1;
     position: absolute;
     transition: 0.5s ease-in-out;
+    margin: 0.5%;
 }
 .dropdownInfo:hover .dropdownContent {
     display: block;
