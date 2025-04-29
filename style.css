@@ -60,7 +60,7 @@ div{
     border-radius: 25px;
     border: #96755b double 0.5vw;
     background: #eee4d4;
-
+    display: block;
 }
 body {
     background-color: #fff5e5;
