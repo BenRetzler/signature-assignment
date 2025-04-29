@@ -1,3 +1,27 @@
+.dropdownInfo {
+    position: relative;
+    display: block;
+    text-decoration: underline;
+    align-self: auto;
+    text-align: center;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 2.5%;
+    padding-bottom: 2.5%;
+    border: 1vw #000000 solid;
+    font-size: 2vw;
+    margin: 0.5%;
+    border-radius: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.dropdownContent {
+    display: none;
+    z-index: 1;
+    position: absolute;
+}
+.dropdownInfo:hover .dropdownContent {
+    display: block;
+}
 header {
     margin: auto;
     font-size: 7vw;
