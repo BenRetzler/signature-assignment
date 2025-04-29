@@ -18,8 +18,9 @@
     display: none;
     z-index: 1;
     position: absolute;
-    transition: 0.5s ease-in-out;
     margin: 0.5%;
+    background: #fff5e5;
+    
 }
 .dropdownInfo:hover .dropdownContent {
     display: block;
