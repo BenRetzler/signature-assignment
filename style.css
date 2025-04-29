@@ -54,6 +54,8 @@ header {
     text-shadow: 0 0 5px#000000;
     font-family: Helvetica, Arial, sans-serif;
     font-weight: bolder;
+    border-radius: 25px;
+    border: #96755b ridge 0.5vw;
 }
 header a {
     margin: auto;
