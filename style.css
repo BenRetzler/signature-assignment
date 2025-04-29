@@ -24,6 +24,7 @@
 }
 .dropdownInfo:hover .dropdownContent {
     display: block;
+    left: 13%;
 }
 .dropdownContent a {
     align-self: auto;
