@@ -120,13 +120,14 @@ footer {
     bottom: 0;
     width: 100%;
     padding: 2%;
-    text-align:center;
+    text-align: center;
 
 }
 footer p {
     font-family: Helvetica, Arial, sans-serif;
     color: #fff5e5;
     display: inline;
+    align-self: center;
 }
 @media only screen and (max-width: 55em) {
     .mainDiv {
