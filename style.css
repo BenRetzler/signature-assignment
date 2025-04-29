@@ -47,19 +47,7 @@
 div{
     display: inline;
 }
-header {
-    margin: auto;
-    font-size: 7vw;
-    text-align: center;
-    color: #ffcf60;
-    text-shadow: 0 0 5px#000000;
-    font-family: Helvetica, Arial, sans-serif;
-    font-weight: bolder;
-    border-radius: 25px;
-    border: #96755b double 0.5vw;
-    background: #eee4d4;
-}
-header a {
+.title {
     margin: auto;
     font-size: 7vw;
     text-align: center;
@@ -68,6 +56,10 @@ header a {
     font-family: Helvetica, Arial, sans-serif;
     font-weight: bolder;
     text-decoration: none;
+    border-radius: 25px;
+    border: #96755b double 0.5vw;
+    background: #eee4d4;
+
 }
 body {
     background-color: #fff5e5;
