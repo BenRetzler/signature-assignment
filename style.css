@@ -1,3 +1,6 @@
+.replaceDropdown {
+    display: none;
+}
 .dropdownInfo {
     display: inline;
     text-decoration: underline;
@@ -145,6 +148,12 @@ footer p {
         margin: auto;
         text-align: center;
         font-size: 14px;
+    }
+    .dropdownInfo {
+        display: none;
+    }
+    .replaceDropdown {
+        display: inline;
     }
     /*nav a {
         border: 4px #000000 solid;
