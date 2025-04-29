@@ -1,5 +1,4 @@
 .dropdownInfo {
-    position: relative;
     display: inline;
     text-decoration: underline;
     align-self: auto;
@@ -54,7 +53,7 @@ nav {
     margin: 2.5% 6% 2.5% 6%;
     border: 3vw #96755b solid;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-evenly;
 }
 nav a {
     align-self: auto;
