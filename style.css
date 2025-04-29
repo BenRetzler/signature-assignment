@@ -106,7 +106,7 @@ main div img {
 }
 .mainDiv {
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-between;
     border: 1px #ffcf60 dashed;
     padding: 1%;
     margin: 1%;
