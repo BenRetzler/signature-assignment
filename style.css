@@ -1,3 +1,6 @@
+* {
+    transition: 0.5s ease-in-out;
+}
 .replaceDropdown {
     display: none;
 }
@@ -17,7 +20,6 @@
     font-family: Arial, Helvetica, sans-serif;
     order: 1;
     color: #ffcf60;
-    transition: 0.5s ease-in-out;
 }
 .dropdownContent {
     display: none;
@@ -28,7 +30,6 @@
     box-shadow: 10px 5px 5px #000000;
     left: 15%;
     border-radius: 25px;
-    transition: 0.5s ease-in-out;
 }
 .dropdownInfo:hover .dropdownContent {
     display: block;
