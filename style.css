@@ -1,6 +1,6 @@
 .dropdownInfo {
     position: relative;
-    display: block;
+    display: inline;
     text-decoration: underline;
     align-self: auto;
     text-align: center;
