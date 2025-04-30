@@ -20,19 +20,17 @@
     padding: 3%;
     margin: 1%;
     display: grid;
-    grid-template-rows: 3fr, 2fr, 3fr, 2fr, 3fr, 2fr, 3fr, 2fr, 2fr;
+    grid-template-rows: repeat(9,1fr);
 }
 #contacter input, textarea {
     background: #96755b;
     color: #ffcf60;
     border: 0.1vw solid #111111;
     margin-top: 2.5%;
-    grid-row: span 2;
 }
 #contacter label {
     padding:5% 0;
     font-size: 35px;
-    grid-row: span 3;
 }
 #active {
     color: #efbf50
