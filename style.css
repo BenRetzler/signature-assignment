@@ -14,16 +14,17 @@
 #contacter #form {
     order: 1;
     max-width: 45%;
+    min-width: 40%;
     font-size: 1.1vw;
 }
 #contacter input {
     background: #96755b;
     color: #ffcf60;
-    justify-self: right;
+    float:right;
 }
 #contacter label {
     padding:5% 0;
-    justify-self: left;
+    float:left;
 }
 #active {
     color: #efbf50
