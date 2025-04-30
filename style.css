@@ -16,13 +16,14 @@
     max-width: 45%;
     font-size: 1.1vw;
 }
-#contact input {
+#contacter input {
     background: #96755b;
     color: #ffcf60;
-    margin-left:20%;
+    justify-self: right;
 }
-#contact label {
+#contacter label {
     padding:5% 0;
+    justify-self: left;
 }
 #active {
     background: #eee4d4;
