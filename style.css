@@ -27,6 +27,7 @@
     color: #ffcf60;
     border: 0.1vw solid #111111;
     margin-top: 2.5%;
+    font-size: 2.5vw;
 }
 input[type=submit] {
     font-family: Helvetica, Arial, sans-serif;
@@ -35,10 +36,12 @@ input[type=submit] {
 }
 #contacter label {
     padding:5% 0;
-    font-size: 35px;
+    font-size: 45px;
+    font-weight:200;
+    text-decoration: underline;
 }
 #active {
-    color: #efbf50
+    color: #efbf50;
 }
 .replaceDropdown {
     display: none;
