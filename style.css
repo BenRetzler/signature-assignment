@@ -32,11 +32,10 @@
 input[type=submit] {
     font-family: Helvetica, Arial, sans-serif;
     font-weight: bold;
-    font-size: 4vw;
+    font-size: 3vw;
 }
 #contacter label {
-    padding:5% 0;
-    font-size: 45px;
+    font-size: 25px;
     font-weight:200;
     text-decoration: underline;
 }
