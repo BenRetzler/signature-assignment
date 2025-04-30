@@ -17,7 +17,7 @@
     min-width: 40%;
     font-size: 1.1vw;
 }
-#contacter input {
+#contacter input, textarea {
     background: #96755b;
     color: #ffcf60;
     float:right;
