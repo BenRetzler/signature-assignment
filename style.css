@@ -23,6 +23,7 @@
     background: #96755b;
     color: #ffcf60;
     float:right;
+    border: 0.35vw solid #111111;
 }
 #contacter label {
     padding:5% 0;
