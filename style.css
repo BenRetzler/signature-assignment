@@ -26,7 +26,7 @@
     justify-self: left;
 }
 #active {
-    background: #eee4d4;
+    color: #efbf50
 }
 .replaceDropdown {
     display: none;
