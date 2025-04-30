@@ -1,6 +1,21 @@
 /* {
     transition: 0.5s ease-in-out;
 }*/
+#contacter {
+    background-color: #eee4d4;
+    display:flex;
+    justify-content: space-between;
+}
+#contacter div {
+    font-size: 0.6vw;
+    order: 0;
+    max-width: 50%;
+}
+#contacter #form {
+    order: 1;
+    max-width: 50%;
+    font-size: 0.7vw;
+}
 #active {
     background: #eee4d4;
 }
