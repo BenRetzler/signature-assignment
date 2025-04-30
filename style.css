@@ -19,6 +19,11 @@
 #contact input {
     background: #96755b;
     color: #ffcf60;
+    justify-self: right;
+}
+#contact label {
+    justify-self: left;
+    padding:2.5% 0;
 }
 #active {
     background: #eee4d4;
