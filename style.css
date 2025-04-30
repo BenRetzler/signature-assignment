@@ -9,11 +9,11 @@
 #contacter div {
     font-size: 1.6vw;
     order: 0;
-    max-width: 50%;
+    max-width: 45%;
 }
 #contacter #form {
     order: 1;
-    max-width: 50%;
+    max-width: 45%;
     font-size: 1.1vw;
 }
 #contact input {
