@@ -28,6 +28,11 @@
     border: 0.1vw solid #111111;
     margin-top: 2.5%;
 }
+input[type=submit] {
+    font-family: Helvetica, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 4vw;
+}
 #contacter label {
     padding:5% 0;
     font-size: 35px;
