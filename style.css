@@ -7,14 +7,18 @@
     justify-content: space-between;
 }
 #contacter div {
-    font-size: 0.6vw;
+    font-size: 1.6vw;
     order: 0;
     max-width: 50%;
 }
 #contacter #form {
     order: 1;
     max-width: 50%;
-    font-size: 0.7vw;
+    font-size: 1.1vw;
+}
+#contact input {
+    background: #96755b;
+    color: #ffcf60;
 }
 #active {
     background: #eee4d4;
