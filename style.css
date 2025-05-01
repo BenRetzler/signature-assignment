@@ -26,8 +26,10 @@
     grid-template-rows: repeat(9,1fr);
 }
 #locationImg {
-    order: 0;
-    width: 70%
+    order: -1;
+    width: 70%;
+    margin-right: 2%;
+
 }
 #locationMain {
     display: flex;
@@ -36,6 +38,13 @@
 #locationSubmain {
     font-size: 1.5vw;
     max-width: 35%;
+}
+table {
+    border:#98775b solid 0.5vw;
+    gap: 0.2vw;
+}
+td,th {
+    border:#99786b solid 0.45vw;
 }
 #contacter input, textarea {
     background: #96755b;
