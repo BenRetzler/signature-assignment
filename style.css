@@ -25,6 +25,14 @@
     display: grid;
     grid-template-rows: repeat(9,1fr);
 }
+#locationImg {
+    order: 0;
+    width: 80%
+}
+#locationMain {
+    display: flex;
+    justify-content: space-between;
+}
 #contacter input, textarea {
     background: #96755b;
     color: #ffcf60;
