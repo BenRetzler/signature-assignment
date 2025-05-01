@@ -27,9 +27,7 @@
 }
 #locationImg {
     order: -1;
-    max-width: 70%;
     margin-right: 2%;
-    max-height: 100%;
 
 }
 #locationMain {
@@ -46,7 +44,7 @@
 table {
     border:#98775b solid 0.5vw;
     gap: 0.2vw;
-    font-size-adjust: -0.35vw;
+    font-size: 0.9vw;
 }
 td,th {
     border:#99786b solid 0.45vw;
