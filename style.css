@@ -28,7 +28,8 @@
 #locationImg {
     order: -1;
     margin-right: 2%;
-
+    max-width: 65%;
+    max-height: 65%;
 }
 #locationMain {
     display: flex;
@@ -36,18 +37,18 @@
 }
 #locationSubmain {
     font-size: 1.5vw;
-    max-width: 35%;
+    max-width: 45%;
     display: flex;
     flex-direction: column;
     text-align: left;
 }
 table {
-    border:#98775b solid 0.5vw;
+    border:#98775b solid 0.35vw;
     gap: 0.2vw;
     font-size: 0.9vw;
 }
 td,th {
-    border:#99786b solid 0.45vw;
+    border:#99786b solid 0.25vw;
 }
 #contacter input, textarea {
     background: #96755b;
