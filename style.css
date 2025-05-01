@@ -11,6 +11,10 @@
     order: 0;
     max-width: 45%;
 }
+#email {
+    text-decoration: underline;
+    color: #fff5e5;
+}
 #form {
     order: 1;
     width: 45%;
