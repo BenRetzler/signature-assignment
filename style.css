@@ -46,6 +46,7 @@
 table {
     border:#98775b solid 0.5vw;
     gap: 0.2vw;
+    font-size-adjust: -0.35vw;
 }
 td,th {
     border:#99786b solid 0.45vw;
