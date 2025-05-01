@@ -41,6 +41,7 @@
     max-width: 35%;
     display: flex;
     flex-direction: column;
+    text-align: left;
 }
 table {
     border:#98775b solid 0.5vw;
