@@ -30,7 +30,7 @@
     grid-template-rows: repeat(9,6vw);
 }
 #form div {
-    font-size: 0.8vh;
+    font-size: 0.98vw;
 }
 #locationImg {
     order: -1;
