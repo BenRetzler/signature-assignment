@@ -94,6 +94,7 @@ input[type=submit] {
     order: 1;
     color: #ffcf60;
     background:#eee4d4;
+    text-shadow: 0 0 5px#000000;
 }
 .dropdownContent {
     display: none;
@@ -105,6 +106,7 @@ input[type=submit] {
     left: 15%;
     border-radius: 25px;
     background:#eee4d4;
+    text-shadow: 0 0 5px#000000;
 }
 .dropdownInfo:hover .dropdownContent {
     display: block;
@@ -169,6 +171,7 @@ nav a {
     font-family: Arial, Helvetica, sans-serif;
     color: #ffcf60;
     background:#eee4d4;
+    text-shadow: 0 0 5px#000000;
 }
 hr {
     border: 0.4em #000000 solid;
