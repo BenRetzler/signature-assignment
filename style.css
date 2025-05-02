@@ -55,6 +55,7 @@ table {
     border:#98775b solid 0.35vw;
     gap: 0.2vw;
     font-size: 0.9vw;
+    min-height: 35%;
 }
 td,th {
     border:#99786b solid 0.25vw;
