@@ -46,6 +46,9 @@
     flex-direction: column;
     text-align: left;
 }
+#locationSubmain div {
+    
+}
 table {
     border:#98775b solid 0.35vw;
     gap: 0.2vw;
