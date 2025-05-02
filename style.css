@@ -45,6 +45,7 @@
     display: flex;
     flex-direction: column;
     text-align: left;
+    min-width: 40%;
 }
 #locationSubmain div {
     text-align: right;
