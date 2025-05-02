@@ -47,7 +47,8 @@
     text-align: left;
 }
 #locationSubmain div {
-    
+    text-align: center;
+    font-size:1.2vw;
 }
 table {
     border:#98775b solid 0.35vw;
