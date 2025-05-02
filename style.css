@@ -198,7 +198,7 @@ footer p {
     font-family: Helvetica, Arial, sans-serif;
     color: #fff5e5;
     display: inline;
-    align-self: center;
+    margin: auto;
 }
 @media only screen and (max-width: 55em) {
     .mainDiv {
