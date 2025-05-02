@@ -1,6 +1,10 @@
 /* {
     transition: 0.5s ease-in-out;
 }*/
+#gridMain {
+    display: grid;
+    grid-template: repeat (5, 1fr) / repeat(3, 1fr);
+}
 #contacter {
     background-color: #eee4d4;
     display:flex;
@@ -132,6 +136,16 @@ input[type=submit] {
     background: #eee4d4;
     display: block;
 }
+.mainDiv {
+    display: flex;
+    justify-content: space-between;
+    border: 1px #ffcf60 dashed;
+    padding: 1%;
+    margin: 1%;
+    max-width: 99%;
+    min-width: 92.5%;
+
+}
 body {
     background-color: #fff5e5;
 }
@@ -171,16 +185,6 @@ main div div {
 main div img {
     max-width: 37%;
     max-height: 15%;
-}
-.mainDiv {
-    display: flex;
-    justify-content: space-between;
-    border: 1px #ffcf60 dashed;
-    padding: 1%;
-    margin: 1%;
-    max-width: 99%;
-    min-width: 92.5%;
-
 }
 footer {
     margin: auto;
