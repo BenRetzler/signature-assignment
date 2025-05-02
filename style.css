@@ -32,8 +32,8 @@
 #locationImg {
     order: -1;
     margin-right: 2%;
-    max-width: 65vw;
-    max-height: 65vw;
+    max-width: 45vw;
+    max-height: 45vw;
 }
 #locationMain {
     display: flex;
