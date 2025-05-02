@@ -122,6 +122,7 @@ input[type=submit] {
     margin: 0.5%;
     border: none;
     font-family: Arial, Helvetica, sans-serif;
+    background:none;
 }
 .title {
     margin: auto;
