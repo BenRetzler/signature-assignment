@@ -31,7 +31,7 @@
 }
 #locationImg {
     grid-area: 1 / span 1 / 1 / span 4;
-    border: solid #000000 1vw;
+    border: solid #000000 0.2vw;
     display: inline-block;
     margin: 1%;
     padding: 1%;
