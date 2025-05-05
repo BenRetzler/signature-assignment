@@ -31,7 +31,7 @@
 }
 #locationImg {
     grid-area: 1 / span 1 / 1 / span 4;
-    width: fit-content;
+    width: auto;
     height: auto;
 }
 #locationMain {
