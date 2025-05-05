@@ -35,17 +35,12 @@
 #locationMain {
     display: grid;
     grid-template: 2fr, 1fr, 1fr / 3fr, 2fr;
-    border: solid 1vw #000000;
 }
 #locationSubmain {
-    font-size: 1.5vw;
     grid-area: 2 / 3 / 1 / 4;
 }
 #locationSubmain div {
     text-align: center;
-    font-size: 3vw;
-    margin:auto;
-    display: block;
 }
 table {
     border:#98775b solid 0.35vw;
