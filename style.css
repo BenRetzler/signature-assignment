@@ -51,7 +51,7 @@
 table {
     border:#98775b solid 0.35vw;
     gap: 0.2vw;
-    font-size: 11px;
+    font-size: 18px;
 }
 td,th {
     border:#99786b solid 0.25vw;
@@ -226,6 +226,9 @@ footer p {
         margin: auto;
         text-align: center;
         font-size: 14px;
+    }
+    table {
+        font-size: 12px;
     }
     .dropdownInfo {
         display: none;
