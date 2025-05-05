@@ -31,8 +31,6 @@
 }
 #locationImg {
     grid-area: 1 / span 1 / 1 / span 4;
-    min-width: 60%;
-    min-height: 40%;
 }
 #locationMain {
     display: grid;
@@ -45,12 +43,11 @@
 #locationSubmain div {
     text-align: right;
     width: auto;
-
 }
 table {
     border:#98775b solid 0.35vw;
     gap: 0.2vw;
-    font-size: 0.9vw;
+    font-size: 11px;
 }
 td,th {
     border:#99786b solid 0.25vw;
