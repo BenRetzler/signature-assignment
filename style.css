@@ -35,10 +35,7 @@
     display: inline-block;
     margin: 1%;
     padding: 1%;
-    min-width: 55%;
-    min-height: 55%;
-    max-width: 60%;
-    max-height: 60%;
+    width: 60vw;
 }
 #locationMain {
     display: grid;
