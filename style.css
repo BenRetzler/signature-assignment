@@ -30,7 +30,7 @@
     grid-template-rows: repeat(9,3vw);
 }
 #locationImg {
-    grid-area: 1, 2 / 1, 4;
+    grid-area: 1 / 2 / 1 / 4;
 }
 #locationMain {
     display: grid;
@@ -39,7 +39,7 @@
 }
 #locationSubmain {
     font-size: 1.5vw;
-    grid-area: 2, 3 / 1, 4;
+    grid-area: 2 / 3 / 1 / 4;
 }
 #locationSubmain div {
     text-align: center;
