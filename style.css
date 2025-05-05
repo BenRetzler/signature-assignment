@@ -44,7 +44,7 @@
 }
 #locationSubmain {
     grid-area: 2 / span 1 / 1 / span 4;
-    width: auto;
+    max-width: 40%;
 }
 #locationSubmain div {
     text-align: right;
