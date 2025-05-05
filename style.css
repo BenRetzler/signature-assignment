@@ -30,20 +30,17 @@
     grid-template-rows: repeat(9,3vw);
 }
 #locationImg {
-    order: -1;
     margin-right: 2%;
     max-width: 45vw;
     max-height: 45vw;
 }
 #locationMain {
-    display: flex;
-    justify-content: space-between;
+    display: grid;
+    grid-template: 2fr, 1fr, 1fr / 3fr, 2fr;
 }
 #locationSubmain {
     font-size: 1.5vw;
     max-width: 45%;
-    display: flex;
-    flex-direction: column;
     min-width: 40%;
 }
 #locationSubmain div {
@@ -101,7 +98,7 @@ input[type=submit] {
     order: 1;
     color: #ffcf60;
     background:#eee4d4;
-    text-shadow: 0 0 0.5vw#000000;
+    text-shadow: 0 0 0.1vw#000000;
 }
 .dropdownContent {
     display: none;
@@ -113,7 +110,7 @@ input[type=submit] {
     left: 15%;
     border-radius: 25px;
     background:#eee4d4;
-    text-shadow: 0 0 0.5vw#000000;
+    text-shadow: 0 0 0.1vw#000000;
 }
 .dropdownInfo:hover .dropdownContent {
     display: block;
@@ -178,7 +175,7 @@ nav a {
     font-family: Arial, Helvetica, sans-serif;
     color: #ffcf60;
     background:#eee4d4;
-    text-shadow: 0 0 0.5vw#000000;
+    text-shadow: 0 0 0.1vw#000000;
 }
 hr {
     border: 0.4em #000000 solid;
