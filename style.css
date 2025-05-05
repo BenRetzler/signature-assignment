@@ -38,15 +38,16 @@
 }
 #locationSubmain {
     grid-area: 2 / span 1 / 1 / span 4;
+    width: auto;
 }
 #locationSubmain div {
     text-align: center;
+    width: auto;
 }
 table {
     border:#98775b solid 0.35vw;
     gap: 0.2vw;
     font-size: 0.9vw;
-    min-height: 35%;
 }
 td,th {
     border:#99786b solid 0.25vw;
