@@ -259,13 +259,13 @@ footer p {
     .mainDiv {
         flex-direction: column;
     }
-    main div img {
+    #Mainmain div img {
         max-width: 80%;
         max-height: 60%;
         margin: auto;
         order: 0;
     }
-    main div div {
+    #Mainmain div div {
         order: 1;
         max-width: 95%;
         min-width: 80%;
