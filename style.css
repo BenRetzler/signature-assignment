@@ -10,9 +10,7 @@
     height: 45%;
 }
 .catalogSubmainOne {
-    width: auto;
-    display: flex;
-    flex-direction: column;
+    border: 0.5vw dashed #fff5e5;
 }
 .catalogImgOne {
     order: 0;
@@ -21,21 +19,17 @@
     width: 45vw;
 }
 .catalogTextOne {
-    width: auto;
     text-align: left;
     order: 1;
-    font-size: 2.2vw;
+    font-size: 10px;
 }
 .catalogSubmainTwo {
-    width: auto;
-    display: flex;
-    flex-direction: column-reverse;
+    border: 0.5vw dashed #fff5e5;
 }
 .catalogImgTwo {
     order: 1;
 }
 .catalogTextTwo {
-    width: auto;
     text-align: right;
     order: 0;
     font-size: 2.2vw;
