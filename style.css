@@ -15,9 +15,10 @@
     flex-direction: column;
 }
 .catalogImgOne {
-    width: 95%;
-    height: 95%;
     order: 0;
+}
+.catalogImgOne, .catalogImgTwo {
+    width: 45vw;
 }
 .catalogTextOne {
     width: auto;
@@ -30,8 +31,6 @@
     flex-direction: column-reverse;
 }
 .catalogImgTwo {
-    width: 95%;
-    height: 95%;
     order: 1;
 }
 .catalogTextTwo {
