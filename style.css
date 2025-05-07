@@ -4,6 +4,7 @@
 #gridMain {
     display: grid;
     grid-template: repeat (10, 1fr) / repeat(2, 50%);
+    justify-items: center;
 }
 #contactImg {
     width: 45%;
@@ -11,7 +12,6 @@
 }
 .catalogSubmainOne {
     border-right:0.75em#96755b double;
-    justify-items: left;
 }
 .catalogImgOne {
     order: 0;
@@ -34,11 +34,9 @@
 }
 .catalogSubmainTwo {
     border: 0.5vw dashed #fff5e5;
-    justify-items: right;
 }
 .catalogImgTwo {
     order: 1;
-    justify-self: right;
 }
 .catalogTextTwo {
     text-align: right;
