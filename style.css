@@ -92,7 +92,7 @@
 #locationSubmain div {
     width: 70%;
     margin: auto;
-    font-size: 14px;
+    font-size: 18px;
 }
 table {
     border:#98775b solid 0.35vw;
@@ -287,6 +287,9 @@ footer p {
     }
     .catalogTextOne, .catalogTextTwo {
         font-size: 11px;
+    }
+    #locationSubmain div {
+        font-size: 12px;
     }
     /*nav a {
         border: 4px #000000 solid;
