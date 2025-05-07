@@ -16,7 +16,7 @@
     order: 0;
 }
 .catalogImgOne, .catalogImgTwo {
-    width: 45vw;
+    width: 100%;
     grid-row: span 1;
 }
 .catalogTextOne, .catalogTextTwo {
