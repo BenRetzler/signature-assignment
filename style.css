@@ -14,7 +14,8 @@ catalogSubmainOne {
     flex-direction: column;
 }
 catalogImgOne {
-    width: fit-content;
+    min-width: 45%;
+    max-width: 50%;
 }
 catalogTextOne {
     width: auto;
@@ -26,7 +27,8 @@ catalogSubmainTwo {
     flex-direction: column-reverse;
 }
 catalogImgTwo {
-    width: fit-content;
+    min-width: 45%;
+    max-width: 50%;
 }
 catalogTextTwo {
     width: auto;
