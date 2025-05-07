@@ -6,8 +6,7 @@
     grid-template: repeat (10, 1fr) / repeat(2, 1fr);
 }
 contactImg {
-    min-width: 35vw;
-    max-width: 50vw;
+    width: 95%;
 }
 catalogSubmainOne {
     width: auto;
@@ -30,8 +29,7 @@ catalogSubmainTwo {
     flex-direction: column-reverse;
 }
 catalogImgTwo {
-    min-width: 45%;
-    max-width: 50%;
+    width: 95%;
     order: 1;
 }
 catalogTextTwo {
