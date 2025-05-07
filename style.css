@@ -8,6 +8,7 @@
 catalogSubmainOne {
     width: auto;
     display: flex;
+    flex-direction: column;
 }
 catalogImgOne {
     width: fit-content;
@@ -15,6 +16,18 @@ catalogImgOne {
 catalogTextOne {
     width: auto;
     text-align: left;
+}
+catalogSubmainTwo {
+    width: auto;
+    display: flex;
+    flex-direction: column-reverse;
+}
+catalogImgTwo {
+    width: fit-content;
+}
+catalogTextTwo {
+    width: auto;
+    text-align: right;
 }
 #contacter {
     background-color: #eee4d4;
