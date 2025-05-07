@@ -285,6 +285,9 @@ footer p {
     .replaceDropdown {
         display: inline;
     }
+    .catalogTextOne, .catalogTextTwo {
+        font-size: 11px;
+    }
     /*nav a {
         border: 4px #000000 solid;
         font-size: 12px;
