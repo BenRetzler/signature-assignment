@@ -230,7 +230,7 @@ footer {
     height: 10%;
     background-color: #96755b;
     position: fixed;
-    left: -5vw;
+    left: -2vw;
     bottom: 0;
     width: 100%;
     padding: 2%;
@@ -261,6 +261,7 @@ footer p {
         text-align: center;
         font-size: 14px;
     }
+    
     table {
         font-size: 12px;
     }
