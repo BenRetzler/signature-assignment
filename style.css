@@ -11,7 +11,7 @@
 }
 .catalogSubmainOne {
     border-right:0.75em#96755b double;
-    justify-content: left;
+    justify-items: left;
 }
 .catalogImgOne {
     order: 0;
@@ -34,10 +34,11 @@
 }
 .catalogSubmainTwo {
     border: 0.5vw dashed #fff5e5;
-    justify-content: right;
+    justify-items: right;
 }
 .catalogImgTwo {
     order: 1;
+    justify-self: right;
 }
 .catalogTextTwo {
     text-align: right;
