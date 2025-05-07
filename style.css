@@ -6,8 +6,8 @@
     grid-template: repeat (10, 1fr) / repeat(2, 50%);
 }
 #contactImg {
-    width: 95%;
-    height: 95%;
+    width: 100%;
+    height: 100%;
 }
 .catalogSubmainOne {
     width: auto;
