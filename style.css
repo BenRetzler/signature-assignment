@@ -16,6 +16,10 @@
 .catalogImgOne {
     order: 0;
 }
+.catalogSubmainOne, .catalogSubmainTwo {
+    border-bottom: 0.75em#96755b double;
+    padding-bottom: 2.5%;
+}
 .catalogImgOne, .catalogImgTwo {
     width: 50%;
     margin: auto;
