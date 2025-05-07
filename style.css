@@ -11,6 +11,7 @@
 }
 .catalogSubmainOne {
     border: 0.5vw dashed #fff5e5;
+    justify-content: left;
 }
 .catalogImgOne {
     order: 0;
@@ -20,6 +21,7 @@
     margin: auto;
     padding: 1%;
     border: #111111 1vw dotted;
+    border-radius: 10px;
     grid-row: span 1;
 }
 .catalogTextOne, .catalogTextTwo {
@@ -32,6 +34,7 @@
 }
 .catalogSubmainTwo {
     border: 0.5vw dashed #fff5e5;
+    justify-content: right;
 }
 .catalogImgTwo {
     order: 1;
