@@ -7,8 +7,8 @@
     justify-items: center;
 }
 #contactImg {
-    width: 45%;
-    height: 45%;
+    width: 85%;
+    height: 85%;
     display: block;
 }
 .catalogSubmainOne {
@@ -57,7 +57,7 @@
     justify-content: space-between;
 }
 #contacter div {
-    font-size: 24px;
+    font-size: 1.4vw;
     order: 0;
     max-width: 45%;
 }
