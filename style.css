@@ -7,6 +7,7 @@
 }
 contactImg {
     min-width: 25vw;
+    justify-self: center;
 }
 catalogSubmainOne {
     width: auto;
