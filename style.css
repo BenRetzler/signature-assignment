@@ -6,7 +6,8 @@
     grid-template: repeat (10, 1fr) / repeat(2, 1fr);
 }
 contactImg {
-    min-width: 25vw;
+    min-width: 35vw;
+    max-width: 50vw;
 }
 catalogSubmainOne {
     width: auto;
