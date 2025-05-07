@@ -78,6 +78,7 @@
     margin: auto;
     padding: 1%;
     width: 60vw;
+    display: block;
 }
 #locationMain {
     max-width: 100%;
