@@ -19,11 +19,13 @@
     width: 45vw;
     grid-row: span 1;
 }
+.catalogTextOne, .catalogTextTwo {
+    font-size: 10px;
+    grid-row: span 1;
+}
 .catalogTextOne {
     text-align: left;
     order: 1;
-    font-size: 10px;
-    grid-row: span 1;
 }
 .catalogSubmainTwo {
     border: 0.5vw dashed #fff5e5;
@@ -34,8 +36,6 @@
 .catalogTextTwo {
     text-align: right;
     order: 0;
-    font-size: 10px;
-    grid-row: span 1;
 }
 #contacter {
     background-color: #eee4d4;
