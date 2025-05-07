@@ -5,34 +5,34 @@
     display: grid;
     grid-template: repeat (10, 1fr) / repeat(2, 50%);
 }
-contactImg {
+#contactImg {
     width: 95%;
 }
-catalogSubmainOne {
+.catalogSubmainOne {
     width: auto;
     display: flex;
     flex-direction: column;
 }
-catalogImgOne {
+.catalogImgOne {
     min-width: 45%;
     max-width: 50%;
     order: 0;
 }
-catalogTextOne {
+.catalogTextOne {
     width: auto;
     text-align: left;
     order: 1;
 }
-catalogSubmainTwo {
+.catalogSubmainTwo {
     width: auto;
     display: flex;
     flex-direction: column-reverse;
 }
-catalogImgTwo {
+.catalogImgTwo {
     width: 95%;
     order: 1;
 }
-catalogTextTwo {
+.catalogTextTwo {
     width: auto;
     text-align: right;
     order: 0;
