@@ -16,10 +16,12 @@ catalogSubmainOne {
 catalogImgOne {
     min-width: 45%;
     max-width: 50%;
+    order: 0;
 }
 catalogTextOne {
     width: auto;
     text-align: left;
+    order: 1;
 }
 catalogSubmainTwo {
     width: auto;
@@ -29,10 +31,12 @@ catalogSubmainTwo {
 catalogImgTwo {
     min-width: 45%;
     max-width: 50%;
+    order: 1;
 }
 catalogTextTwo {
     width: auto;
     text-align: right;
+    order: 0;
 }
 #contacter {
     background-color: #eee4d4;
