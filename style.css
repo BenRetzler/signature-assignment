@@ -37,6 +37,7 @@
 }
 .catalogImgTwo {
     order: 1;
+    float: right;
 }
 .catalogTextTwo {
     text-align: right;
