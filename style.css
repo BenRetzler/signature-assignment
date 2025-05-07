@@ -7,6 +7,7 @@
 }
 catalogSubmainOne {
     width: auto;
+    display: flex;
 }
 catalogImgOne {
     width: fit-content;
