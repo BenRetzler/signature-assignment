@@ -11,7 +11,8 @@
     height: 45%;
 }
 .catalogSubmainOne {
-    border-right:0.75em#96755b double;
+    border-right:0.375em#96755b;
+    margin-right: 0.125em;
 }
 .catalogImgOne {
     order: 0;
@@ -37,7 +38,8 @@
     order: 1;
 }
 .catalogSubmainTwo {
-    border: 0.5vw dashed #fff5e5;
+    border-left:0.375em#96755b;
+    margin-left: 0.125em;
 }
 .catalogImgTwo {
     order: 1;
