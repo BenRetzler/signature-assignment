@@ -50,6 +50,7 @@
 #locationSubmain div {
     text-align: right;
     width: auto;
+    right: 4vw;
 }
 table {
     border:#98775b solid 0.35vw;
