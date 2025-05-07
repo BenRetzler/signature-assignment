@@ -7,6 +7,7 @@
 }
 #contactImg {
     width: 95%;
+    height: 95%;
 }
 .catalogSubmainOne {
     width: auto;
@@ -14,8 +15,8 @@
     flex-direction: column;
 }
 .catalogImgOne {
-    min-width: 45%;
-    max-width: 50%;
+    width: 95%;
+    height: 95%;
     order: 0;
 }
 .catalogTextOne {
@@ -30,6 +31,7 @@
 }
 .catalogImgTwo {
     width: 95%;
+    height: 95%;
     order: 1;
 }
 .catalogTextTwo {
