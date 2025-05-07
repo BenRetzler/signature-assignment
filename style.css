@@ -20,7 +20,7 @@
     width: 50%;
     margin: auto;
     padding: 1%;
-    border: #111111 1vw dotted;
+    border: #111111 1vw dashed;
     border-radius: 10px;
     grid-row: span 1;
 }
