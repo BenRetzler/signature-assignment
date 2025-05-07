@@ -16,7 +16,10 @@
     order: 0;
 }
 .catalogImgOne, .catalogImgTwo {
-    width: 100%;
+    width: 50%;
+    margin: auto;
+    padding: 1%;
+    border: #111111 1vw dotted;
     grid-row: span 1;
 }
 .catalogTextOne, .catalogTextTwo {
