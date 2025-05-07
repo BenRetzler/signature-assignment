@@ -76,7 +76,7 @@
 #locationImg {
     border: solid #000000 0.2vw;
     display: inline-block;
-    margin: 1%;
+    margin: auto;
     padding: 1%;
     width: 60vw;
 }
@@ -93,7 +93,7 @@ table {
     border:#98775b solid 0.35vw;
     gap: 0.2vw;
     font-size: 18px;
-    margin: 0;
+    margin: auto;
     padding: 0;
 }
 td,th {
