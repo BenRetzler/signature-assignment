@@ -3,7 +3,7 @@
 }*/
 #gridMain {
     display: grid;
-    grid-template: repeat (10, 1fr) / repeat(2, 50%);
+    grid-template: repeat (12, 1fr) / repeat(2, 50%);
     justify-items: center;
 }
 #contactImg {
