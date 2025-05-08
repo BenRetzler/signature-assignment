@@ -3,8 +3,7 @@
 }*/
 #gridMain {
     display: grid;
-    grid-template: repeat (12, 1fr) / repeat(2, 50%);
-    justify-items: center;
+    grid-template: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr / 50% 50%;
 }
 #contactImg {
     width: 65%;
