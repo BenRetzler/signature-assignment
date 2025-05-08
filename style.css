@@ -12,6 +12,7 @@
 }
 iframe {
     height: 35vw;
+    min-width: 35vw;
 }
 .catalogSubmainOne {
     border-right:0.375em#96755b solid;
