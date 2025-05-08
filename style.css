@@ -247,7 +247,7 @@ footer {
     height: 10%;
     background-color: #96755b;
     position: fixed;
-    left: -2vw;
+    /*left: -2vw;*/
     bottom: 0;
     width: 100%;
     padding: 2%;
