@@ -70,7 +70,7 @@ iframe {
 #form {
     order: 1;
     width: 60%;
-    font-size: 0.8vw;
+    font-size: 16px;
     border: dashed #98775b 1.0vw;
     background: #efe5d3;
     margin: 1%;
@@ -297,7 +297,7 @@ footer p {
         font-size: 13px;
     }
     #form {
-        font-size: 1.0vw;
+        font-size: 12px;
     }
     /*nav a {
         border: 4px #000000 solid;
