@@ -299,7 +299,7 @@ footer p {
     label {
         font-size: 14px;
     }
-    nav a {
+    nav a, .replaceDropdown {
         color: #000000;
     }
     /*nav a {
