@@ -299,6 +299,9 @@ footer p {
     label {
         font-size: 14px;
     }
+    nav a {
+        color: #000000;
+    }
     /*nav a {
         border: 4px #000000 solid;
         font-size: 12px;
