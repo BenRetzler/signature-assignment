@@ -10,6 +10,9 @@
     width: 65%;
     display: block;
 }
+iframe {
+    height: 35vw;
+}
 .catalogSubmainOne {
     border-right:0.375em#96755b solid;
     margin-right: 0.125em;
