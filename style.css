@@ -123,9 +123,6 @@ input[type=submit] {
     font-weight:200;
     text-decoration: underline;
 }
-#active {
-    color: #efbf50;
-}
 .replaceDropdown {
     display: none;
 }
