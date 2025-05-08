@@ -57,9 +57,9 @@
     justify-content: space-between;
 }
 #contacter div {
-    font-size: 1.4vw;
+    font-size: 18px;
     order: 0;
-    max-width: 45%;
+    max-width: 65%;
 }
 #email {
     text-decoration: underline;
@@ -290,6 +290,9 @@ footer p {
     }
     #locationSubmain div {
         font-size: 12px;
+    }
+    #contacter div {
+        font-size: 13px;
     }
     /*nav a {
         border: 4px #000000 solid;
